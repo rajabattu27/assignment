@@ -1,3 +1,8 @@
+** Framework **
+1. Web Application used Page Object Model with Java and Selenium
+2. API with Java Https Client
+3. Mobile with Java and Selenium Framework - Android
+
 **Pre-requisite - Setup**
 1. Download IntelliJ IDE
 2. Download JDK8 
