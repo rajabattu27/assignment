@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="EncoreWebTests-Test-Suite" parallel="tests" verbose="1" thread-count="10">
+    <test name="EncoreWebTests-tests">
+        <classes>
+            <class name="com.encore.mobile.tests.EncoreMobileTests"/>
+        </classes>
+    </test>
+</suite>
