@@ -25,6 +25,7 @@ public class EncoreWebTests extends BaseTest {
     private final String quantity = "2";
     private final String fromDate = "20211101";
     private final String toDate = "20211201";
+    private String date = "";
     private String selectedDate = "";
     private String selectedTime = "";
 
@@ -36,9 +37,9 @@ public class EncoreWebTests extends BaseTest {
         GetProductQuantityResponse getProductQuantityResponse = inventoryProductsHelpers.getProductQuantityResponse(productId, quantity, fromDate, toDate);
         Assert.assertEquals(getProductQuantityResponse.code,200,"Expected status code is 200 but actual status code is "+getProductQuantityResponse.code);
         int size = getProductQuantityResponse.getProductQuantityResponseData().getResponse().size();
-        String date = getProductQuantityResponse.getProductQuantityResponseData().getResponse().get(randomNumber.nextInt(size - 1)).getDatetime();
+        date = getProductQuantityResponse.getProductQuantityResponseData().getResponse().get(randomNumber.nextInt(size - 1)).getDatetime();
         selectedDate = DateUtils.getDateFromDateTime("yyyy-MM-dd'T'HH:mm:ss+SSSS", "yyyyMMdd", date);
-        selectedTime = DateUtils.getTimeFromDateTime("yyyy-MM-dd'T'HH:mm:ss+SSSS", "HH:mm", date);
+        selectedTime = DateUtils.getTimeFromDateTime("yyyy-MM-dd'T'HH:mm:ss+SSSS", "HHmm", date);
 
         // Making a call to GET/v4/products/%s/areas?date=%s&time=%s&quantity=%s
         GetProductAreaResponse getProductAreaResponse = inventoryProductsHelpers.getProductArea(productId, selectedDate, selectedTime, quantity, "true");
@@ -50,6 +51,7 @@ public class EncoreWebTests extends BaseTest {
 
         String inputMonthYear  = DateUtils.getDateFromDateTime("yyyyMMdd", "MMMM yyyy", selectedDate);
         String inputDate   = DateUtils.getDateFromDateTime("yyyyMMdd", "MMMM d, yyyy", selectedDate);
+        String selectedTime = DateUtils.getTimeFromDateTime("yyyy-MM-dd'T'HH:mm:ss+SSSS", "HH:mm", date);
         app.start()
                 .enterShow(showName)
                 .clickFirstSearchResult()
