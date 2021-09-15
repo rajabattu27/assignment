@@ -34,7 +34,8 @@ public class HomePage extends AbstractBasePage {
 
     public HomePage clickFirstSearchResult() {
         log.info("Clicking First Search Result");
-        waitForVisibilityOfElement(firstSearchResult).click();
+        waitForVisibilityOfElement(firstSearchResult);
+        clickUsingJS(firstSearchResult);
         return this;
     }
 
