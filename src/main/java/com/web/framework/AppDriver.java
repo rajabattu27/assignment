@@ -33,7 +33,6 @@ public abstract class AppDriver {
         log.info("Launching URL: " + Configuration.WEB_URL);
         getDriver().manage().deleteAllCookies();
         getDriver().manage().window().maximize();
-        getDriver().manage().window().setSize(new Dimension(1440, 900));
         getDriver().manage().timeouts().implicitlyWait(Configuration.DEFAULT_IMPLICIT_TIMEOUT, TimeUnit.SECONDS);
         getDriver().get(Configuration.WEB_URL);
     }

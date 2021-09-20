@@ -26,6 +26,10 @@ public class ChooseADatePage extends AbstractBasePage {
     @FindBy(css = "span.c-quick-search__timeslot-time")
     private List<WebElement> timeSlot;
 
+    @FindBy(css = "div.dayContainer")
+    private WebElement dayContainer;
+
+
 
     public ChooseADatePage(WebDriver driver) {
         super(driver);
@@ -50,6 +54,7 @@ public class ChooseADatePage extends AbstractBasePage {
 
     public ChooseADatePage selectDate(String date) {
         log.info("Selecting the date: " + date);
+        waitForVisibilityOfElement(dayContainer);
         Delay(3000);
         for (WebElement e : calendarDays) {
             if (e.getAttribute("aria-label").equalsIgnoreCase(date)) {
@@ -63,6 +68,7 @@ public class ChooseADatePage extends AbstractBasePage {
     public SeatPlanningPage clickPickYourSeats() {
         log.info("Clicking Pick Your Seats button");
         waitForVisibilityOfElement(pickYourSeatsButton).click();
+        Delay(5000);
         return new SeatPlanningPage(driver);
     }
 

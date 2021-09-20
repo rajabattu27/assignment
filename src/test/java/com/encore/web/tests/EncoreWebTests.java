@@ -4,6 +4,7 @@ import com.api.utils.DateUtils;
 import com.api.v4.helpers.InventoryProductsHelpers;
 import com.api.v4.responses.inventoryproducts.GetProductAreaResponse;
 import com.api.v4.responses.inventoryproducts.GetProductQuantityResponse;
+import com.web.encore.pages.SeatPlanningPage;
 import com.web.framework.AppDriver;
 import com.web.framework.BaseTest;
 import org.testng.Assert;
@@ -26,8 +27,8 @@ public class EncoreWebTests extends BaseTest {
     private final String fromDate = "20211101";
     private final String toDate = "20211201";
     private String date = "";
-    private String selectedDate = "";
-    private String selectedTime = "";
+    private String selectedDate = "20211122";
+    private String selectedTime = "1900";
 
 
     @BeforeMethod
@@ -38,8 +39,8 @@ public class EncoreWebTests extends BaseTest {
         Assert.assertEquals(getProductQuantityResponse.code,200,"Expected status code is 200 but actual status code is "+getProductQuantityResponse.code);
         int size = getProductQuantityResponse.getProductQuantityResponseData().getResponse().size();
         date = getProductQuantityResponse.getProductQuantityResponseData().getResponse().get(randomNumber.nextInt(size - 1)).getDatetime();
-        selectedDate = DateUtils.getDateFromDateTime("yyyy-MM-dd'T'HH:mm:ss+SSSS", "yyyyMMdd", date);
-        selectedTime = DateUtils.getTimeFromDateTime("yyyy-MM-dd'T'HH:mm:ss+SSSS", "HHmm", date);
+      //  selectedDate = DateUtils.getDateFromDateTime("yyyy-MM-dd'T'HH:mm:ss+SSSS", "yyyyMMdd", date);
+       // selectedTime = DateUtils.getTimeFromDateTime("yyyy-MM-dd'T'HH:mm:ss+SSSS", "HHmm", date);
 
         // Making a call to GET/v4/products/%s/areas?date=%s&time=%s&quantity=%s
         GetProductAreaResponse getProductAreaResponse = inventoryProductsHelpers.getProductArea(productId, selectedDate, selectedTime, quantity, "true");
@@ -52,7 +53,7 @@ public class EncoreWebTests extends BaseTest {
         String inputMonthYear  = DateUtils.getDateFromDateTime("yyyyMMdd", "MMMM yyyy", selectedDate);
         String inputDate   = DateUtils.getDateFromDateTime("yyyyMMdd", "MMMM d, yyyy", selectedDate);
         String selectedTime = DateUtils.getTimeFromDateTime("yyyy-MM-dd'T'HH:mm:ss+SSSS", "HH:mm", date);
-        app.start()
+        SeatPlanningPage seatPlanningPage = app.start()
                 .enterShow(showName)
                 .clickFirstSearchResult()
                 .clickFindTickets()
@@ -60,7 +61,35 @@ public class EncoreWebTests extends BaseTest {
                 .selectMonthYear(inputMonthYear)
                 .selectDate(inputDate)
                 .selectShowTime(selectedTime)
-                .clickPickYourSeats(); // Validating the each page when an object is created
+                .clickPickYourSeats();// Validating the each page when an object is created
+
+                seatPlanningPage.selectSeat();
+                seatPlanningPage.clickAddToBasket();
     }
+
+    @Test(dataProvider = DEFAULT_PROVIDER)
+    public void verifyBookingRestTest(AppDriver app) {
+
+        String inputMonthYear  = DateUtils.getDateFromDateTime("yyyyMMdd", "MMMM yyyy", selectedDate);
+        String inputDate   = DateUtils.getDateFromDateTime("yyyyMMdd", "MMMM d, yyyy", selectedDate);
+        String selectedTime = DateUtils.getTimeFromDateTime("yyyy-MM-dd'T'HH:mm:ss+SSSS", "HH:mm", date);
+        SeatPlanningPage seatPlanningPage = app.start()
+                .enterShow(showName)
+                .clickFirstSearchResult()
+                .clickFindTickets()
+                .clickMonthSelector()
+                .selectMonthYear(inputMonthYear)
+                .selectDate(inputDate)
+                .selectShowTime(selectedTime)
+                .clickPickYourSeats() ;// Validating the each page when an object is created
+
+        seatPlanningPage.selectRestrictedSeat();
+        boolean importantSeatSelectionDisplayed = seatPlanningPage.
+                clickAddToBasket()
+                .isImportantSeatInfoDisplayed();
+
+        Assert.assertTrue(importantSeatSelectionDisplayed, " Import Seat info should be dispalyed for restricted view ");
+    }
+
 
 }
