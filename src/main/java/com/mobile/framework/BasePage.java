@@ -32,6 +32,15 @@ public abstract class BasePage {
 		}
 	}
 
+
+	public void Delay(long timeInMilli) {
+		try {
+			Thread.sleep(3000);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+	}
+
 	/**
 	 * Returns True, if Element is found else false
 	 * 

@@ -1,12 +1,12 @@
 package com.encore.mobile.tests;
 
-import com.mobile.framework.AppiumBaseTest;
-import com.mobile.encore.screens.GetTicketsAtAPriceScreen;
-import org.testng.annotations.Test;
+        import com.mobile.framework.AppiumBaseTest;
+        import com.mobile.encore.screens.GetTicketsAtAPriceScreen;
+        import org.testng.annotations.Test;
 
 public class EncoreMobileTests extends AppiumBaseTest {
 
-	@Test
+    @Test
     public void verifyTicketBooking() {
         GetTicketsAtAPriceScreen getTicketsAtAPriceScreen = new GetTicketsAtAPriceScreen(this.driver);
         getTicketsAtAPriceScreen
@@ -15,6 +15,8 @@ public class EncoreMobileTests extends AppiumBaseTest {
                 .clickNext()
                 .clickSelectManually()
                 .clickOnLocation("London")
-                .clickContinueWithOutSignUp();
+                .clickContinueWithOutSignUp()
+                .selectShowMammaMia()
+                .selectDatePrice();
     }
 }
