@@ -103,7 +103,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <!--suppress UnresolvedMavenProperty -->
-                        <suiteXmlFile>src/test/resources/testng/${suiteXmlFile}.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/testng/encore-web-tests.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     <useSystemClassLoader>false</useSystemClassLoader>
                 </configuration>
