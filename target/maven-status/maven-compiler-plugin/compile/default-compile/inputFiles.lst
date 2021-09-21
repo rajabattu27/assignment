@@ -14,6 +14,7 @@
 /Users/ra324990/Documents/assignment/src/main/java/com/api/v4/responses/inventoryproducts/data2/Response.java
 /Users/ra324990/Documents/assignment/src/main/java/com/api/v4/responses/inventoryproducts/data/Response.java
 /Users/ra324990/Documents/assignment/src/main/java/com/api/utils/BaseUrl.java
+/Users/ra324990/Documents/assignment/src/main/java/com/web/encore/pages/BasketPage.java
 /Users/ra324990/Documents/assignment/src/main/java/com/api/v4/responses/inventoryproducts/data2/SalePrice.java
 /Users/ra324990/Documents/assignment/src/main/java/com/web/framework/LocalDriver.java
 /Users/ra324990/Documents/assignment/src/main/java/com/web/framework/BaseTest.java
@@ -45,6 +46,7 @@
 /Users/ra324990/Documents/assignment/src/main/java/com/mobile/encore/screens/BookInAFewTapsScreen.java
 /Users/ra324990/Documents/assignment/src/main/java/com/api/v4/responses/inventoryproducts/data/Query.java
 /Users/ra324990/Documents/assignment/src/main/java/com/api/v4/helpers/InventoryProductsHelpers.java
+/Users/ra324990/Documents/assignment/src/main/java/com/mobile/encore/screens/SelectShowDateScreen.java
 /Users/ra324990/Documents/assignment/src/main/java/com/api/v4/responses/inventoryproducts/data2/UrlParams.java
 /Users/ra324990/Documents/assignment/src/main/java/com/api/constants/Constants.java
 /Users/ra324990/Documents/assignment/src/main/java/com/api/v4/responses/inventoryproducts/data2/Request.java

@@ -2,69 +2,123 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="405a216d-66be-41d1-84d0-707b256a7ccf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_carrotsearch_java_sizeof_0_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jai_imageio_jai_imageio_core_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jffi_1_2_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jffi_native_1_2_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jnr_a64asm_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jnr_constants_0_9_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jnr_ffi_2_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jnr_netdb_1_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jnr_posix_3_0_50.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jnr_x86asm_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_icu_icu4j_59_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lowagie_itext_2_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sikulix_sikulix2tigervnc_1_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sikulix_sikulixapi_2_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_45_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_2_14_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_5_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_5_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_oneandone_reflections8_reflections8_0_11_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_py4j_py4j_0_10_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_lept4j_lept4j_1_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_tess4j_tess4j_4_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_ST4_4_0_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_fontbox_2_0_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_jbig2_imageio_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_2_0_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_debugger_2_0_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_tools_2_0_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_xmlgraphics_commons_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_62.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_62.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ghost4j_ghost4j_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jboss_vfs_3_2_15_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_4_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openpnp_opencv_4_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_analysis_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_commons_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_util_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_python_jython_slim_2_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_nop_1_7_28.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/assignment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mobile/encore/screens/AllShowsScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mobile/encore/screens/AllShowsScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mobile/framework/AppiumBaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mobile/framework/AppiumBaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mobile/framework/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mobile/framework/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/encore/mobile/tests/EncoreMobileTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/encore/mobile/tests/EncoreMobileTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ExtentReports/extent-results.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ExtentReports/extent-results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/web/encore/pages/SeatPlanningPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/web/encore/pages/SeatPlanningPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/extent-results.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingRestTest202109200101.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingRestTest202109200115.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingRestTest202109200124.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingRestTest202109200132.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingRestTest202109200136.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingRestTest202109200148.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingRestTest202109200300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200103.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200110.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200116.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200124.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200133.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200136.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200137.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200146.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200156.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200215.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200219.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200909.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200911.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200924.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200933.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200946.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200947.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200948.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200950.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200955.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200958.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109200959.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201032.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201035.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201036.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201044.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201047.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201055.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201105.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201109.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201121.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201122.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201124.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201126.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201141.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201142.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201146.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201147.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201153.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201155.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201157.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201159.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ExtentReports/verifyBookingTest202109201235.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/assignment-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mobile/encore/screens/AllShowsScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mobile/encore/screens/AllShowsScreen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mobile/framework/AppiumBaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mobile/framework/AppiumBaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mobile/framework/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mobile/framework/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/web/encore/pages/BasketPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/encore/pages/BasketPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/web/encore/pages/ChooseADatePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/encore/pages/ChooseADatePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/web/encore/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/encore/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/web/encore/pages/SeatPlanningPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/encore/pages/SeatPlanningPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/web/framework/AbstractBasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/framework/AbstractBasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/web/framework/AppDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/framework/AppDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/EncoreWebTests-Test-Suite/EncoreWebTests-tests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/EncoreWebTests-Test-Suite/EncoreWebTests-tests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.encore.web.tests.EncoreWebTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/EncoreWebTests-Test-Suite/EncoreWebTests-tests.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/EncoreWebTests-Test-Suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/EncoreWebTests-Test-Suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/EncoreWebTests-Test-Suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/EncoreWebTests-Test-Suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/EncoreWebTests-Test-Suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/EncoreWebTests-Test-Suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/EncoreWebTests-Test-Suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/EncoreWebTests-Test-Suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/EncoreWebTests-Test-Suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/EncoreWebTests-Test-Suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/encore/mobile/tests/EncoreMobileTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/encore/mobile/tests/EncoreMobileTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/encore/web/tests/EncoreWebTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/encore/web/tests/EncoreWebTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/encore/web/tests/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/encore/web/tests/test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -80,19 +134,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/framework/BasePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="37" column="31" selection-start-line="35" selection-end-line="41" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/encore/mobile/tests/EncoreMobileTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="180">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,74 +146,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/encore/screens/JoinUsScreen.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/encore/web/tests/EncoreWebTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/encore/screens/SelectLocationScreen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/encore/screens/AllShowsScreen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-              <folding>
-                <element signature="e#669#670#0" expanded="true" />
-                <element signature="e#698#699#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/encore/screens/SelectShowDateScreen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/web/encore/pages/SeatPlanningPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="68" column="15" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/web/framework/AbstractBasePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="91" selection-start-line="91" selection-end-line="98" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="273">
+              <caret line="65" column="40" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -178,6 +159,71 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
               <caret line="92" column="18" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/web/encore/pages/SeatPlanningPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="73" column="58" selection-start-line="73" selection-start-column="58" selection-end-line="73" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/api/constants/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/api/constants/RequestMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/api/core/HttpRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/ExtentReports/extent-results.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/web/framework/AbstractBasePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="794">
+              <caret line="82" column="53" lean-forward="true" selection-start-line="82" selection-start-column="53" selection-end-line="82" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/web/framework/Screenshot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -209,13 +255,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/web/encore/pages/BasketPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/encore/web/tests/EncoreWebTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/web/encore/pages/ChooseADatePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/web/encore/pages/SeatPlanningPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mobile/framework/AppiumBaseTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mobile/framework/BasePage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/mobile/encore/screens/SelectShowDateScreen.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mobile/encore/screens/AllShowsScreen.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/encore/mobile/tests/EncoreMobileTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/web/encore/pages/SeatPlanningPage.java" />
       </list>
     </option>
   </component>
@@ -242,8 +288,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,66 +311,70 @@
               <item name="assignment" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="encore" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="encore" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="encore" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="testng" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
               <item name="assignment" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="ExtentReports" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
@@ -338,6 +386,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -437,8 +487,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG./Users/ra324990/Documents/assignment/src/test/resources/testng/encore-web-tests.xml" />
-        <item itemvalue="TestNG.EncoreWebTests.verifyBookingRestTest" />
         <item itemvalue="TestNG.EncoreWebTests.verifyBookingTest" />
+        <item itemvalue="TestNG.EncoreWebTests.verifyBookingRestTest" />
         <item itemvalue="Application.test" />
         <item itemvalue="TestNG./Users/ra324990/Documents/assignment/src/test/resources/testng/encore-mobile-tests.xml" />
       </list>
@@ -458,27 +508,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EncoreWebTests_verifyBookingTest - 2021.09.20 at 13h 57m 39s.xml">
-      <configuration name="EncoreWebTests.verifyBookingTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="EncoreWebTests_verifyBookingTest - 2021.09.20 at 13h 58m 26s.xml">
-      <configuration name="EncoreWebTests.verifyBookingTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="EncoreWebTests_verifyBookingTest - 2021.09.20 at 13h 59m 27s.xml">
-      <configuration name="EncoreWebTests.verifyBookingTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="EncoreWebTests_verifyBookingTest - 2021.09.20 at 14h 02m 17s.xml">
-      <configuration name="EncoreWebTests.verifyBookingTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="EncoreWebTests_verifyBookingTest - 2021.09.20 at 14h 59m 21s.xml">
-      <configuration name="EncoreWebTests.verifyBookingTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="EncoreWebTests_verifyBookingTest - 2021.09.20 at 15h 01m 15s.xml">
-      <configuration name="EncoreWebTests.verifyBookingTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="EncoreWebTests_verifyBookingRestTest - 2021.09.20 at 15h 03m 37s.xml">
-      <configuration name="EncoreWebTests.verifyBookingRestTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_ra324990_Documents_assignment_src_test_resources_testng_encore-web-tests_xml - 2021.09.20 at 15h 07m 41s.xml">
       <configuration name="/Users/ra324990/Documents/assignment/src/test/resources/testng/encore-web-tests.xml" configurationId="TestNG" />
     </history-entry>
@@ -488,12 +517,33 @@
     <history-entry file="_Users_ra324990_Documents_assignment_src_test_resources_testng_encore-web-tests_xml - 2021.09.20 at 17h 27m 25s.xml">
       <configuration name="/Users/ra324990/Documents/assignment/src/test/resources/testng/encore-web-tests.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_Users_ra324990_Documents_assignment_src_test_resources_testng_encore-web-tests_xml - 2021.09.20 at 23h 14m 15s.xml">
+      <configuration name="/Users/ra324990/Documents/assignment/src/test/resources/testng/encore-web-tests.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_ra324990_Documents_assignment_src_test_resources_testng_encore-web-tests_xml - 2021.09.21 at 00h 11m 52s.xml">
+      <configuration name="/Users/ra324990/Documents/assignment/src/test/resources/testng/encore-web-tests.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_ra324990_Documents_assignment_src_test_resources_testng_encore-web-tests_xml - 2021.09.21 at 00h 13m 14s.xml">
+      <configuration name="/Users/ra324990/Documents/assignment/src/test/resources/testng/encore-web-tests.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EncoreWebTests_verifyBookingTest - 2021.09.21 at 00h 14m 14s.xml">
+      <configuration name="EncoreWebTests.verifyBookingTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EncoreWebTests_verifyBookingTest - 2021.09.21 at 00h 14m 33s.xml">
+      <configuration name="EncoreWebTests.verifyBookingTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EncoreWebTests_verifyBookingTest - 2021.09.21 at 11h 09m 59s.xml">
+      <configuration name="EncoreWebTests.verifyBookingTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_ra324990_Documents_assignment_src_test_resources_testng_encore-web-tests_xml - 2021.09.21 at 11h 12m 17s.xml">
+      <configuration name="/Users/ra324990/Documents/assignment/src/test/resources/testng/encore-web-tests.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -502,12 +552,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32982457" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32932693" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32982457" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32932693" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32982457" />
@@ -531,20 +581,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/api/v4/responses/inventoryproducts/data/UrlParams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/api/v4/responses/inventoryproducts/data2/UrlParams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/api/v4/responses/inventoryproducts/data2/Request.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -573,20 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/web/framework/Screenshot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/web/framework/ExtentConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/web/utilities/DateUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -601,20 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/encore/screens/GetTicketsAtAPriceScreen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/api/constants/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -653,13 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/web/framework/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -706,33 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/api/constants/RequestMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/api/core/HttpRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-457">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/web/framework/LocalDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -798,20 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/encore/web/tests/EncoreWebTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="82" column="45" lean-forward="true" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/web/framework/AppDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Configuration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="430">
@@ -832,24 +792,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/encore/screens/SelectLocationScreen.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/encore/screens/SelectShowDateScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/web/encore/pages/SeatPlanningPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="68" column="15" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/web/framework/AbstractBasePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="91" selection-start-line="91" selection-end-line="98" selection-end-column="5" />
+        <state relative-caret-position="105">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -858,42 +804,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
+        <state relative-caret-position="1335">
           <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/Appium Integration (1).txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/encore/screens/AllShowsScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="92" column="18" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="18" />
+        <state relative-caret-position="418">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/encore/screens/SelectShowDateScreen.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/encore/screens/SelectLocationScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/framework/BasePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="37" column="31" selection-start-line="35" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/encore/mobile/tests/EncoreMobileTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="203">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -904,13 +830,129 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/encore/screens/AllShowsScreen.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/framework/BasePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="430">
+          <caret line="37" column="31" selection-start-line="35" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="190" column="48" selection-start-line="190" selection-start-column="48" selection-end-line="190" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/encore/screens/GetTicketsAtAPriceScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Appium Integration (1).txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="92" column="18" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/encore/mobile/tests/EncoreMobileTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
           <folding>
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/encore/web/tests/EncoreWebTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="65" column="40" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/ExtentReports/extent-results.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/web/framework/LocalDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/web/framework/ExtentConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/web/framework/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/web/framework/AppDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-212">
+          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/web/framework/AbstractBasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="794">
+          <caret line="82" column="53" lean-forward="true" selection-start-line="82" selection-start-column="53" selection-end-line="82" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/web/framework/Screenshot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/web/encore/pages/SeatPlanningPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="73" column="58" selection-start-line="73" selection-start-column="58" selection-end-line="73" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/api/constants/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/api/constants/RequestMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/api/core/HttpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

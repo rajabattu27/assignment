@@ -71,7 +71,7 @@ public class SeatPlanningPage extends AbstractBasePage {
             Actions actions = new Actions(driver);
             clickUsingCoordinates(seatVisibleArea, 0, 250);
             Delay(5000);
-            clickUsingCoordinates(seatVisibleArea, -80, 250);
+            clickUsingCoordinates(seatVisibleArea, -80, 230);
             driver.switchTo().parentFrame();
             Delay(3000);
             String actualLowPrice = lowestPriceTicket.getText();

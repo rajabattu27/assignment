@@ -1,3 +1,4 @@
 com/encore/mobile/tests/EncoreMobileTests.class
 com/encore/web/tests/GetProductQuantityTests.class
+com/encore/web/tests/test.class
 com/encore/web/tests/EncoreWebTests.class

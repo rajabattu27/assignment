@@ -39,9 +39,11 @@ com/api/utils/BaseUrl.class
 com/api/v4/responses/inventoryproducts/data2/SalePrice.class
 com/api/v4/requests/inventoryproducts/GetProductAreaRequest.class
 com/mobile/encore/screens/JoinUsScreen.class
+com/web/encore/pages/BasketPage.class
 com/api/v4/responses/inventoryproducts/GetProductAreaResponse.class
 com/api/v4/responses/inventoryproducts/data2/Seat.class
 com/api/v4/responses/inventoryproducts/data/Request.class
+com/mobile/encore/screens/SelectShowDateScreen.class
 com/api/core/HttpResponse.class
 com/web/framework/ExtentConfig.class
 com/web/encore/pages/ChooseADatePage.class
